@@ -1,2 +1,2 @@
 # Travel_Web_Application
-Travel Web Application 
+A modern React-based travel web application that allows users to explore destinations, view travel packages, and browse accommodations. The frontend features a responsive UI, dynamic components, interactive destination cards, and smooth navigation. It provides an intuitive user experience for searching trips, viewing details, and managing basic travel preferences—all powered entirely on the client side with React.
